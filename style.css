@@ -1,0 +1,44 @@
+.logo {
+   margin-top: 0;
+   margin-right: 4%;
+   margin-left: 4% ;
+   margin-bottom: 0;
+   padding: 2.5% 0;
+
+}
+
+.logo img {
+   width: 100px;
+}
+
+.main {
+   background: #ff0000 url('img/main.jpg');
+   background-size: cover;
+  background-position: center 84%;
+}
+
+.store-bnrs {
+   padding: 0;
+  width: 350px;
+  display: flex;
+  position: absolute;
+  bottom: 2%;
+  box-sizing: border-box;
+}
+.store-bnrs div {
+  padding: 0 2%;
+  flex-grow:1;
+}
+.store-bnrs img {
+  width: 100%;
+
+}
+
+.bnr {
+ background: url(web/img/bn-cm-02-e7e3365d81a009b340eee951ac33996dbd7812fa6119a84feda7441e29c78b1a.png) no-repeat scroll center 0;
+
+}
+
+.thumb{
+ background: url(web/img-points-01-e5e3859993eb2cbe79037ca0ec83bdf97b476bf2dac52e148fd44fbd2fb74ceb.jpg) no-repeat scroll center 0;
+}
